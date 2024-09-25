@@ -1,0 +1,59 @@
+.table{
+    width: 60%;
+    background-color:#d2f7f3;
+    box-shadow:  1px 1px 5px rgb(32, 31, 31);
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 50px;
+    
+}
+.addbutton
+{
+    text-decoration: none;
+    background-color: rgb(249, 203, 38);
+    color: white;
+    font-weight: 600;
+    box-shadow:  1px 1px 4px rgb(32, 31, 31);
+    border-radius: 5px;
+    padding: 10px;
+
+} 
+.table table
+{
+    width: 100%;
+    margin-top: 40px;
+    border-collapse: collapse;
+}
+.table table thead th{
+    background-color: rgb(254, 146, 4);
+    color: white;
+    padding: 10px;
+}
+.table table tbody td{
+    padding: 10;
+    text-align: center;
+}
+.actionbutton button
+{
+    border: 0;
+    outline: none;
+    background: red;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.actionbutton a
+{
+    display:inline-block; 
+  
+    background: green;
+    padding: 5px 15px;
+    color: white;
+    margin: 0px 10px;
+   
+    
+    border-radius: 5px;
+    text-decoration: none;
+    
+}

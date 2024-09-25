@@ -1,0 +1,66 @@
+.adduser
+{
+    width: 30%;
+    background-color: #fff;
+    box-shadow:  1px 1px 5px rgb(32, 31, 31);
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 50px;
+}
+.adduserform
+{
+    margin-top: 10px;
+
+}
+.adduser h3
+{
+    color: rgb(255, 162, 22);  
+    font-weight: 700;
+    font-size: 25px;
+}
+.adduser a
+{
+     
+    color: rgb(230, 155, 42);
+    font-weight:600;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px 15px;
+    background-color:rgb(244, 233, 233);
+    border-radius: 5px;
+    
+}
+.adduserform .inputgroup
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.adduserform .inputgroup label
+{
+    margin-bottom: 10px;
+}
+.adduserform .inputgroup input
+{
+    margin-bottom: 10px;
+    padding: 10px;
+    outline: none;
+}
+.adduserform .inputgroup button
+{
+    margin-top: 10px;
+    width: 40%;
+    border: 0;
+    outline: none;
+    background-color:  rgb(255, 162, 22);;
+    color:white;
+    font-weight: 600;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow:  1px 1px 3px rgb(32, 31, 31);
+
+
+}
